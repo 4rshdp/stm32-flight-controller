@@ -1,0 +1,7 @@
+../Core/Src/Commuication/ibus.c:20:6:ibus_init	8	static
+../Core/Src/Commuication/ibus.c:25:6:ibus_read	16	static
+../Core/Src/Commuication/ibus.c:39:6:ibus_is_valid	4	static
+../Core/Src/Commuication/ibus.c:45:6:ibus_checksum	24	static
+../Core/Src/Commuication/ibus.c:59:6:ibus_update	24	static
+../Core/Src/Commuication/ibus.c:70:6:ibus_soft_failsafe	24	static
+../Core/Src/Commuication/ibus.c:93:6:ibus_reset_failsafe	4	static

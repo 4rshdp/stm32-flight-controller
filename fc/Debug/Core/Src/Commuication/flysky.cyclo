@@ -1,0 +1,7 @@
+../Core/Src/Commuication/flysky.c:19:6:flysky_update	1
+../Core/Src/Commuication/flysky.c:29:6:flysky_process	1
+../Core/Src/Commuication/flysky.c:44:10:get_roll	1
+../Core/Src/Commuication/flysky.c:49:10:get_pitch	1
+../Core/Src/Commuication/flysky.c:54:10:get_throttle	1
+../Core/Src/Commuication/flysky.c:59:10:get_yaw	1
+../Core/Src/Commuication/flysky.c:64:10:get_sw1	1

@@ -1,0 +1,2 @@
+../Core/Src/debug_logger.c:22:6:debug_log_status	2
+../Core/Src/debug_logger.c:48:6:debug_motor_test_sequence	8
